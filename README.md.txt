@@ -9,8 +9,8 @@ Projets d'électrotechnique et d'automatisme industriel réalisés en simulation
 | N° | Projet | Outils | Statut |
 | --- | --- | --- | --- |
 | 01 | [Démarrage direct d'un moteur triphasé](01-demarrage-direct/) | CADe_SIMU | ✅ Terminé |
-| 02 | Inversion du sens de rotation | CADe_SIMU | 🔄 En cours |
-| 03 | Démarrage étoile-triangle | CADe_SIMU | ⏳ Prévu |
+| 02 | Inversion du sens de rotation | CADe_SIMU | ✅ Terminé |
+| 03 | Démarrage étoile-triangle | CADe_SIMU | ✅ Terminé |
 | 04 | Portail automatique (GRAFCET + Ladder) | OpenPLC | ⏳ Prévu |
 | 05 | Mini-convoyeur de tri | Arduino, Tinkercad Circuits | ⏳ Prévu |
 
