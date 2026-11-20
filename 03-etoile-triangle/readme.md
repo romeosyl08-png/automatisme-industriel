@@ -73,7 +73,7 @@ Un moteur à 6 bornes possède trois enroulements : U1-U2, V1-V2 et W1-W2.
 | Fin de la temporisation (5 s) | KM2 s'ouvre, KM3 se ferme : passage en triangle sans arrêt | ✅ |
 | Pendant toute la séquence | KM2 et KM3 ne sont jamais fermés ensemble | ✅ |
 | Appui sur S1 | Le moteur s'arrête et ne redémarre pas seul | ✅ |
-| Déclenchement de F2 | Le moteur s'arrête | ☐ |
+| Déclenchement de F2 | Le moteur s'arrête | ✅ |
 
 ## Captures
 
