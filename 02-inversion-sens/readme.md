@@ -63,7 +63,7 @@ Pour changer de sens, il faut d'abord arrêter le moteur avec S1.
 
 | Marche avant | Marche arrière | Verrouillage |
 | --- | --- | --- |
-| ![Marche avant](captures/avant.png) | ![Marche arrière](captures/arriere.png) | ![Verrouillage](captures/verrouillage.png) |
+| ![Marche avant](captures/avant.png) | ![Marche arrière](captures/arrière.png) | ![Verrouillage](captures/verrouillage.png) |
 
 ## Ce que j'ai appris
 
